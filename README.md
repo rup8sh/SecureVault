@@ -1,4 +1,4 @@
-# spring-boot-todo-app
+# SecureVault Springboot App
 We are building a Todo manager. In our application, users can create, update,
 view and delete various Todo items.
 
